@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="FaxService.asmx.cs" Class="faxserver.FaxService" %>

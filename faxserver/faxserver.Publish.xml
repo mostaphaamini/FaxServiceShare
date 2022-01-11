@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://localhost/faxserver" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="03/11/2015 14:19:35" />
+    <file relUrl="bin/faxserver.dll" publishTime="03/11/2015 14:19:31" />
+    <file relUrl="FaxService.asmx" publishTime="03/10/2015 10:04:07" />
+    <file relUrl="bin/faxserver.pdb" publishTime="03/11/2015 14:19:31" />
+    <file relUrl="bin/Interop.FAXCOMEXLib.dll" publishTime="03/11/2015 14:19:31" />
+  </publishProfile>
+</publishData>
